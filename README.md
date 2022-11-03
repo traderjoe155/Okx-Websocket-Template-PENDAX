@@ -33,5 +33,9 @@ case 'tickers':
             console.log(msg.data)
             break;
 ```
+## Result
+
+<img width="266" alt="Screenshot 2022-11-03 at 4 08 31 AM" src="https://user-images.githubusercontent.com/81376325/199672680-b661c51d-50c3-4d82-9828-78de1e52aba6.png">
+
             
 All websocket functionality available from OKX at time of writing is present in this template     

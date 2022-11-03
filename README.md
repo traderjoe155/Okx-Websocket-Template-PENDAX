@@ -9,10 +9,12 @@ run with ```npm index.js```
 Add your api key, secret, and passphrase in index.js under the socket config. adjust parameters as neccesary. If the endpoint you are trying to
 use is private, change isPrivate: true. For market data and other public endpoints, isPrivate: false.
 
-create a subscription inside the doSubscriptions function.
-
 This sample code is using a single okxSubscription, however to add more just declare a new variable and a new socket config. You can refrence more
 than one at a time inside the try block in startSocket function.
+
+<img width="903" alt="Screenshot 2022-11-03 at 4 13 41 AM" src="https://user-images.githubusercontent.com/81376325/199673473-d4dbd5b9-7af5-4809-ac17-8beb173d1180.png">
+
+create a subscription inside the doSubscriptions function.
 
 ex:
 ```    

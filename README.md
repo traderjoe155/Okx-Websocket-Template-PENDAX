@@ -1,6 +1,8 @@
 # OKX Websocket Template built with PENDAX-SDK 
 https://github.com/CompendiumFi/PENDAX-SDK
 
+signup for an OKX account: https://www.okx.com/join/COMPENDIUM
+
 install required packages with ```npm install```
 
 run with ```npm index.js```

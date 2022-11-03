@@ -1,0 +1,23 @@
+{
+  "name": "okxsocketdemo",
+  "version": "1.0.0",
+  "description": "demo template for okx websockets utilizing PENDAX-SDK",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/traderjoe155/okxSocketDemo.git"
+  },
+  "author": "traderjoe155",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/traderjoe155/okxSocketDemo/issues"
+  },
+  "homepage": "https://github.com/traderjoe155/okxSocketDemo#readme",
+  "dependencies": {
+    "pendax": "github:compendiumfi/pendax"
+  }
+}

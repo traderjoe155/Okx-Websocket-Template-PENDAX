@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/traderjoe155/okxSocketDemo.git"
+    "url": "git+https://github.com/traderjoe155/Okx-Websocket-Template-PENDAX.git"
   },
   "author": "traderjoe155",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/traderjoe155/okxSocketDemo/issues"
+    "url": "https://github.com/traderjoe155/Okx-Websocket-Template-PENDAX/issues"
   },
-  "homepage": "https://github.com/traderjoe155/okxSocketDemo#readme",
+  "homepage": "https://github.com/traderjoe155/Okx-Websocket-Template-PENDAX#readme",
   "dependencies": {
     "pendax": "github:compendiumfi/pendax"
   }

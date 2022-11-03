@@ -1,4 +1,5 @@
-# okxSocketDemo
+# OKX Websocket Template built with PENDAX-SDK 
+https://github.com/CompendiumFi/PENDAX-SDK
 
 install required packages with ```npm install```
 
